@@ -1,7 +1,7 @@
 # Algoritmo KNN paralelo em cluster com MPI
-## Henrique L. Rieger - `hlr19@inf.ufpr.br`
-## Wagner M. Nunan Zola - `wagner@inf.ufpr.br`
-### Departamento de Informática - Universidade Federal do Paraná
+**Henrique L. Rieger -** `hlr19@inf.ufpr.br`
+**Wagner M. Nunan Zola -** `wagner@inf.ufpr.br`
+**Departamento de Informática - Universidade Federal do Paraná**
 
 Este repositório corresponde ao código e aos dados do projeto de mesmo nome, realizado como Iniciação Científica e apresentado na ERAD/RS 2023.
 
